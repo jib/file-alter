@@ -276,20 +276,18 @@ C<lines in the file + 1> rather than C<1>.
 
 C<$File::Alter::LINENUMBER> does what you expect here and would hold C<1>.
 
+=head1 BUG REPORTS
+
+Please report bugs or other issues to E<lt>bug-file-alter@rt.cpan.orgE<gt>.
+
 =head1 AUTHOR
 
-This module by
-Jos Boumans E<lt>kane@cpan.orgE<gt>.
+This module by Jos Boumans E<lt>kane@cpan.orgE<gt>.
 
 =head1 COPYRIGHT
 
-This module is
-copyright (c) 2005 Jos Boumans E<lt>kane@cpan.orgE<gt>.
-All rights reserved.
-
-This library is free software;
-you may redistribute and/or modify it under the same
-terms as Perl itself.
+This library is free software; you may redistribute and/or modify it 
+under the same terms as Perl itself.
 
 =cut
 
